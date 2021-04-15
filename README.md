@@ -84,7 +84,7 @@ Rust, Ruby, Python, Rails
 </details>
 
 <details>
-  <summary><b>:piano: Stuff I Have done / tools I use (that have a pretty image)</b></summary>
+  <summary><b>:love_letter: Stuff I Have done / tools I use (that have a pretty image)</b></summary>
   <br/>
 
 <code><img height="20" src="https://github.com/github/explore/blob/8ab80ade12d456bb34daaaaa405f87c264d3f9d3/topics/hacktoberfest/hacktoberfest.png" alt="Hacktoberfest"></code>
