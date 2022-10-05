@@ -4,7 +4,7 @@
 I write software that is regularly acceptable. I like drums, piano, and videogames. I work for [Wayfair](https://tech.wayfair.com/2020/11/the-rise-and-fall-of-gitlab-ci/), helping other developers make changes to the Open Source community and make Wayfair engineering more productive. I care about Developer Relations and building Developer Confidence.
 
 - 🔭 I’m currently working on strenghthening Wayfair Open Source presence and community.
-- 🌱 I'm learning Rust to help with [the tremor project](https://github.com/tremor-rs). 🦀
+- 🌱 growing my Rusty skills with [opentelemetry](github.com/opentelemetry/opentelemetry-demo). 🦀
 - 👯 I’m looking to collaborate on OSS like Tremor or git-parse
 - 💬 Ask me about videogames, developer relations, Wayfair, and digital transformation as it relates to the cloud
 - 📫 How to reach me: email gwhite at wayfair, discord (ping me for my handle)
