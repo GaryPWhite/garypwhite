@@ -1,14 +1,15 @@
 ![banner](./assets/banner.gif)
 ## Hi! I'm Gary.
 
-I write software that is regularly acceptable. I like drums, piano, and videogames. I work for [Wayfair](https://tech.wayfair.com/2020/11/the-rise-and-fall-of-gitlab-ci/), helping other developers make changes to the Open Source community and make Wayfair engineering more productive. I care about Developer Relations and building Developer Confidence.
+I write software that is regularly acceptable. I like drums, piano, and videogames. I work for Verizon, helping other developers make changes to the Open Source community and make Verizon engineering more productive. I care about Developer Relations and building Developer Confidence.
 
-- 🔭 I’m currently working on strenghthening Wayfair Open Source presence and community.
+- 🔭 I’m currently working on strenghthening Verizon Open Source presence and community.
 - 🌱 growing my Rusty skills with [opentelemetry](https://github.com/open-telemetry/opentelemetry-demo). 🦀
 - 👯 I’m looking to collaborate on OSS like Tremor or git-parse
-- 💬 Ask me about videogames, developer relations, Wayfair, and digital transformation as it relates to the cloud
+- 💬 Ask me about videogames, developer relations, Verizon, and digital transformation as it relates to the cloud
 - 📫 How to reach me: email gwhite at wayfair, discord (ping me for my handle)
-- ⚡ Fun fact: I have made 500+ emojis for Wayfair's internal slack channel, and 20 more for my own discord.
+- ⚡ Fun fact: I am an emoji enthusiast, I have a collection of 500+ custom 'moji :)
+
 
 If you're looking for a searchable list of things I know and/or work with, check the `raw` version of this page, as I've listed by topic below!
 
