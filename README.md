@@ -3,7 +3,7 @@
 
 I write software that is regularly acceptable. I like drums, piano, and videogames. I work for Verizon, helping other developers make changes to the Open Source community and make Verizon engineering more productive. I care about Developer Relations and building Developer Confidence.
 
-- 🔭 I’m currently working on strenghthening Verizon Open Source presence and community.
+- 🔭 I’m currently working on strengthening Verizon Open Source presence and community.
 - 🌱 growing my Rusty skills with [opentelemetry](https://github.com/open-telemetry/opentelemetry-demo). 🦀
 - 👯 I’m looking to collaborate on OSS like Tremor or git-parse
 - 💬 Ask me about videogames, developer relations, Verizon, and digital transformation as it relates to the cloud
