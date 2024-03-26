@@ -4,11 +4,11 @@
 I write software that is regularly acceptable. I like drums, piano, and videogames. I work for Verizon, helping other developers make changes to the Open Source community and make Verizon engineering more productive. I care about Developer Relations and building Developer Confidence.
 
 - 🔭 I’m currently working on strengthening Verizon Open Source presence and community.
-- 🌱 growing my Rusty skills with [opentelemetry](https://github.com/open-telemetry/opentelemetry-demo). 🦀
-- 👯 I’m looking to collaborate on OSS like Tremor or git-parse
-- 💬 Ask me about videogames, developer relations, Verizon, and digital transformation as it relates to the cloud
-- 📫 How to reach me: email gwhite at wayfair, discord (ping me for my handle)
-- ⚡ Fun fact: I am an emoji enthusiast, I have a collection of 500+ custom 'moji :)
+- 🌱 developing a model with [CHAOSS](https://github.com/chaoss/) for choosing [viable open source software](https://chaoss.community/?s=viability).
+- 👯 I’m looking to collaborate on OSS, particularly alt-options outside licensing and metrics collectors
+- 💬 Ask me about videogames, software viability, Verizon, and digital transformation as it relates to the cloud
+- 📫 How to reach me: email 574/github at simplelogin (dot) com, discord (ping me for my handle)
+- ⚡ Fun fact: I am an emoji enthusiast, I have a collection of 550+ custom 'moji :)
 
 
 If you're looking for a searchable list of things I know and/or work with, check the `raw` version of this page, as I've listed by topic below!
